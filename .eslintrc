@@ -8,3 +8,12 @@
     "es6": true
   },
   "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "rules": {
+    "indent": ["error", 2],
+    "space-before-function-paren": ["off"]
+  }
+}
