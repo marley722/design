@@ -8,3 +8,13 @@
 
 /cypress/videos
 /cypress/screenshots
+/cypress/fixtures
+/cypress/plugins
+/cypress/support
+/cypress/integration/examples
+
+# production
+/build
+
+# analyzer
+/stats
